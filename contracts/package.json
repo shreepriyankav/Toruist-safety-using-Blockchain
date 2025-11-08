@@ -1,0 +1,13 @@
+{
+  "name": "tourist-safety-contracts",
+  "version": "1.0.0",
+  "description": "Smart contracts for Tourist Safety System",
+  "main": "deploy.js",
+  "scripts": {
+    "deploy": "node deploy.js"
+  },
+  "dependencies": {
+    "web3": "^4.0.0",
+    "solc": "^0.8.19"
+  }
+}
